@@ -12,7 +12,7 @@
 ---
 
 ### 🎨 A Filosofia
-Acredito que o código não deve ser apenas funcional; deve ter **identidade**. Atualmente, foco-me no desenvolvimento ful
+Acredito que o código não deve ser apenas funcional; deve ter **identidade**. Atualmente, foco-me no desenvolvimento de websites ou apps responsivos e modernos com o intuito de fornecer a melhor experiencia de tecnologia ao cliente.
 ---
 
 
